@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5FC5C153-C378-4326-87BA-B00984CD62E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NationBuilderGame/appsettings.cs">
+    <Files>
+      <File FileName="NationBuilderGame/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="NationBuilderGame/Controllers/AccountController.cs" Line="8" Column="25" />
+      <File FileName="NationBuilderGame/Controllers/NationController.cs" Line="25" Column="22" />
+      <File FileName="NationBuilderGame/Models/ApplicationDbContext.cs" Line="16" Column="10" />
+      <File FileName="NationBuilderGame/Models/ApplicationUser.cs" Line="13" Column="1" />
+      <File FileName="NationBuilderGame/NationBuilderGame.csproj" Line="1" Column="1" />
+      <File FileName="NationBuilderGame/Models/Nation.cs" Line="11" Column="34" />
+      <File FileName="NationBuilderGame/ViewModels/LoginViewModel.cs" Line="10" Column="2" />
+      <File FileName="NationBuilderGame/ViewModels/RegisterViewModel.cs" Line="23" Column="1" />
+      <File FileName="NationBuilderGame/Views/Account/Index.cshtml" Line="22" Column="2" />
+      <File FileName="NationBuilderGame/Views/Account/Login.cshtml" Line="20" Column="2" />
+      <File FileName="NationBuilderGame/Views/Account/Register.cshtml" Line="24" Column="2" />
+      <File FileName="NationBuilderGame/Views/Nation/Index.cshtml" Line="20" Column="10" />
+      <File FileName="NationBuilderGame/Views/Nation/Create.cshtml" Line="8" Column="7" />
+      <File FileName="NationBuilderGame/Views/Shared/_Layout.cshtml" Line="14" Column="1" />
+      <File FileName="NationBuilderGame/Program.cs" Line="25" Column="1" />
+      <File FileName="NationBuilderGame/Startup.cs" Line="34" Column="66" />
+      <File FileName="NationBuilderGame/appsettings.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NationBuilderGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
